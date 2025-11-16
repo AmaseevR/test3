@@ -5,7 +5,7 @@ const features = [
     icon: "🎨",
   },
   {
-    title: "AI-Powered",
+    title: "AI-Powersed",
     description: "Generate components with natural language",
     icon: "🤖",
   },
